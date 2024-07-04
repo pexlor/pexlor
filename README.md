@@ -27,7 +27,7 @@
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
-<a href="https://github.com/Xiaokang2022"><img src="https://img.shields.io/badge/GitHub-pexlor-blue?logo=github" /></a>
+<a href="https://github.com/pexlor"><img src="https://img.shields.io/badge/GitHub-pexlor-blue?logo=github" /></a>
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=pexlor&abbreviated=true&color=yellow" />
 </p>
